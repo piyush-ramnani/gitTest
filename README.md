@@ -13,8 +13,8 @@ To get started with this repository, follow the steps below:
 
 Set up your Git configurations (if not already done) using the appropriate Git commands:
 
-git config --global user.name "Your Name"
-git config --global user.email "your.email@example.com"
+git config --global user.name "testGit"
+git config --global user.email "test@Git.com"
 
 Explore the repository, its files, and directories to understand its structure and contents.
 
