@@ -7,14 +7,14 @@ Getting Started
 To get started with this repository, follow the steps below:
 
 1. Clone the repository to your local machine using the following command:
+[$ git clone <repository-url>]
 
-(bash)
-2. git clone <repository-url>
-
-Set up your Git configurations (if not already done) using the appropriate Git commands:
-
+2. Set up your Git configurations (if not already done) using the appropriate Git commands:
 git config --global user.name "testGit"
 git config --global user.email "test@Git.com"
+    
+3. Follow the W3 schools tutorial on the below link:
+[https://www.w3schools.com/git/git_getstarted.asp?remote=github]
 
 Explore the repository, its files, and directories to understand its structure and contents.
 
@@ -33,7 +33,7 @@ Contributions to this repository are open to the public.
 However, if you are the owner or collaborator of this repository, you can freely experiment, make changes, and test different Git functionalities.
 
 **RESOURCES**
-    # Git Documentation: W3 Schools
+    # Git Documentation: W3 Schools [https://www.w3schools.com/git/git_getstarted.asp?remote=github]
     # Scaler DSA Course: Official website for the Scaler DSA course, providing comprehensive resources and learning materials for DSA.
 
 Happy learning and happy coding!
