@@ -1,7 +1,7 @@
 # gitTest
 **Git Repository for Testing Git Functionalities and Learning Scaler DSA**
 
-This Git repository was created as a learning and testing ground for Git functionalities and the Scaler DSA (Data Structures and Algorithms) course. It serves as a practice space to understand and experiment with Git commands, version control, branching, merging, and collaboration features. Additionally, it provides a platform to explore and enhance DSA skills using the Scaler DSA course content.
+This Git repository was created as a learning and testing ground for Git functionalities and the Scaler DSA (Data Structures and Algorithms) course. It serves as a practice space to understand and experiment with Git commands, version control, branching, merging, and collaboration features. Additionally, it provides a platform to explore and enhance DSA skills using the Scaler DSA course content..
 Getting Started
 
 To get started with this repository, follow the steps below:
